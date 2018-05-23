@@ -68,3 +68,4 @@ MiRo and obstacle in the motion capture area with markers on them.
  - Workspace is 4mx4m square with origin at center: HSIZE and VSIZE in all cpp files to be modified for changing dimensions. Modify RES in all files for required discretization resolution.
  - One static obstacle in workspace: Modify spatial_reasoner.cpp to include more.
  - Basic string matching to interpret commands: Call grammar parsing ROSJAVA service from interpreter.cpp.
+
